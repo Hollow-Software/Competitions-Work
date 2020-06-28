@@ -1,0 +1,11 @@
+[submodule "🔒 Lanck Face-Rec Lock Competition Backend"]
+	path = 🔒 Lanck Face-Rec Lock Competition Backend
+	url = https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code.git
+
+[submodule "Building CCTV"]
+	path = Building CCTV
+	url = https://github.com/HollowMan6/Building-CCTV.git
+
+[submodule "Other Competitions Work"]
+	path = Other Competitions Work
+	url = https://github.com/HollowMan6/Competitions-Work.git
