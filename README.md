@@ -20,6 +20,7 @@ Here is a collection of the competitions/training/projects I participate.
 
 `git submodule update --init`
 
+* [My OSPP Summer](https://github.com/HollowMan6/My-OSPP-Summer)
 * [🔒 Lanck Face-Rec Lock Competition Backend](https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code)
 * [Building CCTV](https://github.com/HollowMan6/Building-CCTV)
 * [Other Competitions Work](https://github.com/HollowMan6/Competitions-Work)
