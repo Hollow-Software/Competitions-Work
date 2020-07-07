@@ -2,6 +2,10 @@
 	path = My OSPP Summer
 	url = https://github.com/HollowMan6/My-OSPP-Summer.git
 
+[submodule "My Alibaba Summer of Code"]
+	path = My Alibaba Summer of Code
+	url = https://github.com/HollowMan6/My-Alibaba-Summer-of-Code.git
+
 [submodule "🔒 Lanck Face-Rec Lock Competition Backend"]
 	path = 🔒 Lanck Face-Rec Lock Competition Backend
 	url = https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code.git
