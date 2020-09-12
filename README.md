@@ -21,6 +21,7 @@ Here is a collection of the competitions/training/projects I participate.
 `git submodule update --init`
 
 * [My OSPP Summer](https://github.com/HollowMan6/My-OSPP-Summer)
+* [My Alibaba Summer of Code](https://github.com/HollowMan6/My-Alibaba-Summer-of-Code)
 * [🔒 Lanck Face-Rec Lock Competition Backend](https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code)
 * [OCC CB6121 BLE Mesh](https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh)
 * [Building CCTV](https://github.com/HollowMan6/Building-CCTV)
