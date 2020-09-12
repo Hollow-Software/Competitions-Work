@@ -17,3 +17,8 @@
 [submodule "Other Competitions Work"]
 	path = Other Competitions Work
 	url = https://github.com/HollowMan6/Competitions-Work.git
+
+[submodule "OCC CB6121 BLE Mesh"]
+	path = OCC CB6121 BLE Mesh
+	url = https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh.git
+
