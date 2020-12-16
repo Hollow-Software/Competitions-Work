@@ -22,3 +22,6 @@
 	path = OCC CB6121 BLE Mesh
 	url = https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh.git
 
+[submodule "My openEuler University Developer Competition"]
+	path = My openEuler University Developer Competition
+	url = https://github.com/HollowMan6/My-openEuler-University-Developer-Competition.git
