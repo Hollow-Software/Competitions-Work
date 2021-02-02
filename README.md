@@ -22,8 +22,8 @@ Here is a collection of the competitions/training/projects I participate.
 
 * [My Alibaba Summer of Code](https://github.com/HollowMan6/My-Alibaba-Summer-of-Code)
 * [My OSPP Summer](https://github.com/HollowMan6/My-OSPP-Summer)
-* [My openEuler University Developer Competition](https://github.com/HollowMan6/My-openEuler-University-Developer-Competition)
 * [🔒 Lanck Face-Rec Lock Competition Backend](https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code)
 * [OCC CB6121 BLE Mesh](https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh)
 * [Building CCTV](https://github.com/HollowMan6/Building-CCTV)
+* [My openEuler University Developer Competition](https://github.com/HollowMan6/My-openEuler-University-Developer-Competition)
 * [Other Competitions Work](https://github.com/HollowMan6/Competitions-Work)
