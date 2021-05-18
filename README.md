@@ -20,6 +20,7 @@ Here is a collection of the competitions/training/projects I participate.
 
 `git submodule update --init`
 
+* [My Google Summer of Code](https://github.com/HollowMan6/My-Google-Summer-of-Code)
 * [My Alibaba Summer of Code](https://github.com/HollowMan6/My-Alibaba-Summer-of-Code)
 * [My OSPP Summer](https://github.com/HollowMan6/My-OSPP-Summer)
 * [🔒 Lanck Face-Rec Lock Competition Backend](https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code)
