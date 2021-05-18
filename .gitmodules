@@ -1,3 +1,7 @@
+[submodule "My Google Summer of Code"]
+	path = My Google Summer of Code
+	url = https://github.com/HollowMan6/My-Google-Summer-of-Code.git
+
 [submodule "My OSPP Summer"]
 	path = My OSPP Summer
 	url = https://github.com/HollowMan6/My-OSPP-Summer.git
