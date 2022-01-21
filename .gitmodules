@@ -1,0 +1,63 @@
+[submodule "My Google Summer of Code"]
+	path = My Google Summer of Code
+	url = https://github.com/HollowMan6/My-Google-Summer-of-Code.git
+
+[submodule "My OSPP Summer"]
+	path = My OSPP Summer
+	url = https://github.com/HollowMan6/My-OSPP-Summer.git
+
+[submodule "My Alibaba Summer of Code"]
+	path = My Alibaba Summer of Code
+	url = https://github.com/HollowMan6/My-Alibaba-Summer-of-Code.git
+
+[submodule "My LFX Mentorship"]
+	path = My LFX Mentorship
+	url = https://github.com/HollowMan6/My-LFX-Mentorship.git
+
+[submodule "🔒 Lanck Face-Rec Lock Competition Backend"]
+	path = 🔒 Lanck Face-Rec Lock Competition Backend
+	url = https://github.com/HollowMan6/Lanck-Face-Recognition-Lock-Competition-Backend-Code.git
+
+[submodule "Building CCTV"]
+	path = Building CCTV
+	url = https://github.com/HollowMan6/Building-CCTV.git
+
+[submodule "Other Competitions Work"]
+	path = Other Competitions Work
+	url = https://github.com/HollowMan6/Competitions-Work.git
+
+[submodule "OCC CB6121 BLE Mesh"]
+	path = OCC CB6121 BLE Mesh
+	url = https://github.com/HollowMan6/OCC-CB6121-BLE-Mesh.git
+
+[submodule "📕 mdbook-pdf"]
+	path = 📕 mdbook-pdf
+	url = https://github.com/HollowMan6/mdbook-pdf.git
+
+[submodule "My openEuler University Developer Competition"]
+	path = My openEuler University Developer Competition
+	url = https://github.com/HollowMan6/My-openEuler-University-Developer-Competition.git
+
+[submodule "calico openEuler"]
+	path = calico openEuler
+	url = https://github.com/HollowMan6/calico-openEuler.git
+
+[submodule "CoreDNS openEuler"]
+	path = CoreDNS openEuler
+	url = https://github.com/HollowMan6/CoreDNS-openEuler.git
+
+[submodule "My Microsoft Reinforcement Learning Open Source Fest"]
+	path = My Microsoft Reinforcement Learning Open Source Fest
+	url = https://github.com/HollowMan6/My-Microsoft-Reinforcement-Learning-Open-Source-Fest.git
+
+[submodule "My Summer of Bitcoin"]
+	path = My Summer of Bitcoin
+	url = https://github.com/HollowMan6/My-Summer-of-Bitcoin.git
+
+[submodule "My Tencent Rhino-Bird Open-Source Training Program"]
+	path = My Tencent Rhino-Bird Open-Source Training Program
+	url = https://github.com/HollowMan6/My-Tencent-Rhino-Bird-Open-Source-Training-Program.git
+
+[submodule "My openEuler Open Source Internship"]
+	path = My openEuler Open Source Internship
+	url = https://github.com/HollowMan6/My-openEuler-Open-Source-Internship.git
